@@ -1,0 +1,5 @@
+# UAS_SC_1601020016
+NAMA : I Wayan Wegha Nanda Kusuma
+NIM  : 1601020016
+PRODI: IF 2016
+
